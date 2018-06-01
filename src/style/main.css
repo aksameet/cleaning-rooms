@@ -1,0 +1,8 @@
+body {
+  background-color: aliceblue; }
+
+.has-danger .invalid-feedback {
+  display: block; }
+
+.has-danger input {
+  border-color: lightcoral; }
